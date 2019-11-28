@@ -72,7 +72,7 @@ describe("functions", function() {
             // Declare a constant 'answer' with the correct result.
             // If you call getContext() here, you're a cheater! :)
             // ✏️ ADD CODE HERE ✏️
-
+            let answer = undefined;
             ////////////////////////////////////////////////////////////////////
 
             const result = getContext(); // <--- called without explicit context
