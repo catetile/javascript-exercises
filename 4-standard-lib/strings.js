@@ -64,7 +64,9 @@ describe("strings", function() {
 
             ////////////////////////////////////////////////////////////////////
             // ✏️ ADD CODE HERE. USE THE STANDARD LIB! ✏️
-
+            function beginsWith(string) {
+                return text.startsWith(string);
+            }
             ////////////////////////////////////////////////////////////////////
 
             expect(beginsWith("The")).to.equal(true);
