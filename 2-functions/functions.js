@@ -40,7 +40,7 @@ describe("functions", function() {
 
             ////////////////////////////////////////////////////////////////////
             // ✏️ ADD CODE HERE ✏️
-
+            let otherFunction = myFunction;
             ////////////////////////////////////////////////////////////////////
 
             if (myFunction !== otherFunction) {
